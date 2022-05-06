@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experian.API.Automation", "Experian.API.Automation.csproj", "{425722FC-C499-4A2C-9D34-E2DE3C7C64C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.Backend", "..\Service.Backend\Service.Backend.csproj", "{DEFB8EF5-81C6-4951-997E-BFD774CC822E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425722FC-C499-4A2C-9D34-E2DE3C7C64C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425722FC-C499-4A2C-9D34-E2DE3C7C64C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425722FC-C499-4A2C-9D34-E2DE3C7C64C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425722FC-C499-4A2C-9D34-E2DE3C7C64C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFB8EF5-81C6-4951-997E-BFD774CC822E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFB8EF5-81C6-4951-997E-BFD774CC822E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFB8EF5-81C6-4951-997E-BFD774CC822E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFB8EF5-81C6-4951-997E-BFD774CC822E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86D96CE-0333-45E3-9922-4BECCC675E10}
+	EndGlobalSection
+EndGlobal
